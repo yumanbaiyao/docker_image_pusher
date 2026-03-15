@@ -3,3 +3,5 @@ tdengine/tdengine:3.3.5.8
 maven:3.8.3-jdk-8-slim
 eclipse-temurin:8-jre-alpine
 elasticsearch/elasticsearch:7.17.10
+logstash/logstash:7.17.10
+kibana/kibana:7.17.10
