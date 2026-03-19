@@ -5,3 +5,4 @@ eclipse-temurin:8-jre-alpine
 elasticsearch:7.17.10
 logstash:7.17.10
 kibana:7.17.10
+clickhouse/clickhouse-server:24.8
