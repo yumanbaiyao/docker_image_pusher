@@ -7,3 +7,4 @@ logstash:7.17.10
 kibana:7.17.10
 clickhouse/clickhouse-server:24.8
 nginx:stable-alpine
+chromadb/chroma:0.5.0
