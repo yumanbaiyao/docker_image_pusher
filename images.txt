@@ -2,11 +2,7 @@ emqx/emqx:5.6.1
 tdengine/tdengine:3.3.5.8
 maven:3.8.3-jdk-8-slim
 eclipse-temurin:8-jre-alpine
-#elasticsearch:7.17.10
-#logstash:7.17.10
-#kibana:7.17.10
-#clickhouse/clickhouse-server:24.8
 nginx:stable-alpine
 chromadb/chroma:0.5.0
 python:3.12-slim
-rabbitmq:3.8.19
+rabbitmq:3.8.14
